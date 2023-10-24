@@ -1,0 +1,15 @@
+# Fdb version 4
+["pdflatex"] 1698082380 "/Users/abrarfahim/Developer/LatexPlayground/Academic/main.tex" "main.pdf" "main" 1698082380 2
+  "/Users/abrarfahim/Developer/LatexPlayground/Academic/main.tex" 1698082377 57 90bf87d6f43edee249c454cbc39a50a5 ""
+  "/usr/local/texlive/2023basic/texmf-dist/tex/latex/base/article.cls" 1667332637 20144 d5ecf0a5140c8d8d8b72cbe86e320eff ""
+  "/usr/local/texlive/2023basic/texmf-dist/tex/latex/base/size10.clo" 1667332637 8448 c33a4e1cb35cee9b33c2b21033b73e39 ""
+  "/usr/local/texlive/2023basic/texmf-dist/web2c/texmf.cnf" 1677365944 40745 87bb86a62d462f93a1efc6b0c65c872e ""
+  "/usr/local/texlive/2023basic/texmf-var/web2c/pdftex/pdflatex.fmt" 1698070406 7200390 d7cdf2f662b5fb6cd22e796f7e7b1275 ""
+  "/usr/local/texlive/2023basic/texmf.cnf" 1678817979 628 bde3cc671e29677eea4172140533535c ""
+  "main.aux" 1698082380 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "main.tex" 1698082377 57 90bf87d6f43edee249c454cbc39a50a5 ""
+  (generated)
+  "main.aux"
+  "main.log"
+  "main.pdf"
+  (rewritten before read)

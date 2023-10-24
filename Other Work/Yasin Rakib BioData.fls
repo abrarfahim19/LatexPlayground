@@ -1,9 +1,9 @@
-PWD /Users/bayshorecommunication/Developer/git/latex
+PWD /Users/abrarfahim/Developer/LatexPlayground/Other Work
 INPUT /usr/local/texlive/2023basic/texmf.cnf
 INPUT /usr/local/texlive/2023basic/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2023basic/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/bayshorecommunication/Developer/git/latex/main.tex
-OUTPUT main.log
+INPUT /Users/abrarfahim/Developer/LatexPlayground/Other Work/Yasin Rakib BioData.tex
+OUTPUT Yasin Rakib BioData.log
 INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/base/article.cls
@@ -19,17 +19,6 @@ INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/base/size10.clo
 INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/base/size10.clo
 INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/base/size10.clo
 INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/base/size10.clo
-INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/multirow/multirow.sty
 INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/tools/array.sty
 INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/tools/array.sty
@@ -96,10 +85,10 @@ INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/l3backend/l3backend-pdft
 INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2023basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./main.aux
-INPUT main.aux
-INPUT main.aux
-OUTPUT main.aux
+INPUT ./Yasin Rakib BioData.aux
+INPUT Yasin Rakib BioData.aux
+INPUT Yasin Rakib BioData.aux
+OUTPUT Yasin Rakib BioData.aux
 INPUT /usr/local/texlive/2023basic/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/local/texlive/2023basic/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/local/texlive/2023basic/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
@@ -117,9 +106,9 @@ INPUT /usr/local/texlive/2023basic/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /usr/local/texlive/2023basic/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /usr/local/texlive/2023basic/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
 INPUT /usr/local/texlive/2023basic/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
-OUTPUT main.pdf
+OUTPUT Yasin Rakib BioData.pdf
 INPUT /usr/local/texlive/2023basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT main.aux
+INPUT Yasin Rakib BioData.aux
 INPUT /usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb

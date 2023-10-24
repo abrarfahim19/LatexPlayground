@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.23)  23 OCT 2023 19:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.23)  24 OCT 2023 00:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/bayshorecommunication/Developer/git/latex/main.tex
-(/Users/bayshorecommunication/Developer/git/latex/main.tex
+**"/Users/abrarfahim/Developer/LatexPlayground/Other Work/Yasin Rakib BioData.tex"
+(/Users/abrarfahim/Developer/LatexPlayground/Other Work/Yasin Rakib BioData.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-02-22> (/usr/local/texlive/2023basic/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
@@ -22,20 +22,14 @@ File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (/usr/local/texlive/2023basic/texmf-dist/tex/latex/multirow/multirow.sty
-Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip50
-\multirow@cntb=\count193
-\multirow@dima=\skip51
-\bigstrutjot=\dimen141
 ) (/usr/local/texlive/2023basic/texmf-dist/tex/latex/tools/array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen142
+\col@sep=\dimen141
 \ar@mcellbox=\box51
-\extrarowheight=\dimen143
+\extrarowheight=\dimen142
 \NC@list=\toks16
-\extratabsurround=\skip52
-\backup@length=\skip53
+\extratabsurround=\skip50
+\backup@length=\skip51
 \ar@cellbox=\box52
 ) (/usr/local/texlive/2023basic/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -47,39 +41,39 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (/usr/local/texlive/2023basic/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count194
-\Gm@cntv=\count195
-\c@Gm@tempcnt=\count196
-\Gm@bindingoffset=\dimen144
-\Gm@wd@mp=\dimen145
-\Gm@odd@mp=\dimen146
-\Gm@even@mp=\dimen147
-\Gm@layoutwidth=\dimen148
-\Gm@layoutheight=\dimen149
-\Gm@layouthoffset=\dimen150
-\Gm@layoutvoffset=\dimen151
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
 \Gm@dimlist=\toks18
 ) (/usr/local/texlive/2023basic/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count197
+\l__color_backend_stack_int=\count196
 \l__pdf_internal_box=\box53
-) (./main.aux)
-\openout1 = `main.aux'.
+) (./Yasin Rakib BioData.aux)
+\openout1 = `"Yasin Rakib BioData.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -116,58 +110,68 @@ LaTeX Font Info:    ... okay on input line 8.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 12.
+(Font)              <12> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 12.
+(Font)              <8> on input line 11.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 12.
+(Font)              <6> on input line 11.
 
 LaTeX Warning: No \author given.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 15.
+(Font)              <7> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 15.
+(Font)              <5> on input line 14.
 
-Overfull \hbox (57.04486pt too wide) in paragraph at lines 32--39
+Overfull \hbox (32.79703pt too wide) in paragraph at lines 32--43
+[] 
+ []
+
+
+Overfull \hbox (34.46512pt too wide) in paragraph at lines 47--56
 [] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 53.
+(Font)              <9> on input line 60.
 
-Overfull \hbox (78.932pt too wide) in paragraph at lines 53--73
+Overfull \hbox (23.59601pt too wide) in paragraph at lines 60--80
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--73
+Underfull \hbox (badness 10000) in paragraph at lines 60--80
 
- []
-
-
-Overfull \hbox (34.39622pt too wide) in paragraph at lines 75--85
-[] 
  []
 
 [1
 
 {/usr/local/texlive/2023basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (65.95195pt too wide) in paragraph at lines 96--107
+Overfull \hbox (21.30885pt too wide) in paragraph at lines 84--95
 [] 
  []
 
-[2] (./main.aux) ) 
+
+Overfull \hbox (21.52287pt too wide) in paragraph at lines 99--106
+[] 
+ []
+
+
+Overfull \hbox (23.76883pt too wide) in paragraph at lines 110--121
+[] 
+ []
+
+[2] (./Yasin Rakib BioData.aux) ) 
 Here is how much of TeX's memory you used:
- 1209 strings out of 477476
- 20940 string characters out of 5824243
- 1860388 words of memory out of 5000000
- 21496 multiletter control sequences out of 15000+600000
+ 1138 strings out of 477476
+ 19802 string characters out of 5824243
+ 1862388 words of memory out of 5000000
+ 21429 multiletter control sequences out of 15000+600000
  517455 words of font info for 49 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 57i,8n,62p,241b,186s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,8n,62p,267b,194s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on main.pdf (2 pages, 96163 bytes).
+Output written on "Yasin Rakib BioData.pdf" (2 pages, 96580 bytes).
 PDF statistics:
  41 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
